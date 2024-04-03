@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.1 Introduction to AI.md",
+                "file": "Obsidian Vault/DOCS/1.1 Introduction to AI.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d7f78bfb91b820cc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.1 Introduction to AI.md",
+                "file": "Obsidian Vault/DOCS/1.1 Introduction to AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.1 Introduction to AI.md",
+                "file": "Obsidian Vault/DOCS/1.1 Introduction to AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.1 Introduction to AI.md"
+                "file": "Obsidian Vault/DOCS/1.1 Introduction to AI.md"
               }
             }
           }
@@ -149,10 +148,11 @@
   },
   "active": "b7b2ccb93d3ae058",
   "lastOpenFiles": [
-    "README.md",
+    "time.md",
+    "Obsidian Vault/DOCS/1.1 Introduction to AI.md",
+    "Obsidian Vault/DOCS/README.md",
     "1.1 Introduction to AI.md~",
-    "1.1 Introduction to AI.md",
-    "CMPG 313.md",
+    "Obsidian Vault/DOCS/CMPG 313.md",
     "Obsidian Vault/DOCS/MTHS 211.md",
     "Obsidian Vault/DOCS/4.5 Moment Generating Function.md",
     "Obsidian Vault/DOCS/04 Expected Values.md",
@@ -175,8 +175,7 @@
     "Obsidian Vault/DOCS/1.5 Solution Sets of Linear Systems.md",
     "Obsidian Vault/DOCS/1.7 Linear Independence.md",
     "Obsidian Vault/DOCS/03 Joint Distributions.md",
-    "3.3 Continuous Random Variables.md",
-    "3.4 Independent Random Variables.md",
+    "Obsidian Vault/DOCS/3.3 Continuous Random Variables.md",
     "CMPG 313.md.partial",
     "Obsidian Vault/DOCS/03 Joint Distributions.md.partial",
     "Obsidian Vault/DOCS/Statistic Functions.md.partial",
