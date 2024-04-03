@@ -1,0 +1,16 @@
+{
+  "background-settings@@background-settings-workplace-background-image": true,
+  "background-settings@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-custom-option",
+  "background-settings@@background-settings-workplace-theme-dark-custom": "url(\"https://wallpaperaccess.com/full/2122627.png\")",
+  "background-settings@@toggle-nonoverlapping-bg": false,
+  "background-settings@@background-image-settings-switch": false,
+  "background-settings@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-transparent",
+  "background-settings@@toggle-bg-panel-page": false,
+  "things-style@@mobile-black-background": false,
+  "background-settings@@background-panel-page-theme-light-custom": "url(\"https://wallpaperaccess.com/full/2122627.png\")",
+  "background-settings@@bg-panel-page-option": "panel-page-bg-theme-light-custom",
+  "background-settings@@background-panel-page-theme-dark-custom": "url(\"https://wallpaperaccess.com/full/2122627.png\")",
+  "background-settings@@blur-depth": 18,
+  "background-settings@@brightness-4-bg": 0.3,
+  "background-settings@@saturate-4-bg": 1
+}

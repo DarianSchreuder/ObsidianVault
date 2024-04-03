@@ -1,0 +1,11 @@
+{
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "rightToLeft": false,
+  "showLineNumber": false,
+  "foldIndent": true,
+  "showInlineTitle": false,
+  "focusNewTab": true,
+  "readableLineLength": false,
+  "promptDelete": false
+}

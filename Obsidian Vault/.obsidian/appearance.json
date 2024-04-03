@@ -1,0 +1,12 @@
+{
+  "accentColor": "#9a32d2",
+  "textFontFamily": "iA Writer Mono S",
+  "cssTheme": "Things",
+  "translucency": true,
+  "nativeMenus": false,
+  "baseFontSize": 22,
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "obsidian-workspace-background(Shiba Uni Theme)"
+  ]
+}

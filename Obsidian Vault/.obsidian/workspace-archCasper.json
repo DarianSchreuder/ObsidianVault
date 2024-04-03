@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "0506454a59ceb804",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6b5266cdb3d5739",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da6f13de1711ee1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Searching.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad198669e3e5e575",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd5be9cbd7b50f56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75c4a39a292fb3aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91689fdec022f15a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "538fe6bb9711e21f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e42557cc1f8a397a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "194103d9cac6635a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9711b22f3e84b474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7b9526cb408ca75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Searching.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2102a804bacf4652",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Searching.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba607a0650907135",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "45b2976be12611cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Searching.md"
+              }
+            }
+          },
+          {
+            "id": "5194cd1395cc16c8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "31b8fa6791781ddc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "da6f13de1711ee1b",
+  "lastOpenFiles": [
+    "CMPG 211.md",
+    "Searching.md",
+    "DOCS/Time Table.md",
+    "5.1 Eigenvectors and Eigenvalues.md",
+    "5.0 Eigenvalues and Eigenvectors.md",
+    "DOCS/MTHS 212.md",
+    "().md",
+    "DOCS/STTN 215.md",
+    "DOCS/Statistic Functions.md",
+    "6.2 chi squared distributions,t and F distributions.md",
+    "6.0 Distributions derived from the normal distribution.md",
+    "5.3 The Central Limit Theorem.md",
+    "DOCS/05 Limit Theorems.md",
+    "DOCS/5.2 The Law of Large Numbers.md",
+    "DOCS/5.1 Introduction.md",
+    "Array.md",
+    "ArraySort.md",
+    "Interfaces in Java.md",
+    "6.1 Introduction.md",
+    "DOCS/MTHS 211.md",
+    "DOCS/15.0 Multiple Integrals.md",
+    "15.6 Triple Integrals.md",
+    "15.9 Changes of Variables in Multiple Integrals.md",
+    "15.4 Applications of Double Integrals.md",
+    "DOCS/14.5 The Chain Rule.md",
+    "DOCS/14.0 Partial Derivatives.md",
+    "DOCS/Screenshot from 2023-05-12 01-46-01.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "DOCS/Pasted image 20230415013749.png",
+    "DOCS/Pasted image 20230414231658.png",
+    "DOCS/Pasted image 20230414231618.png",
+    "DOCS/Pasted image 20230414230433.png",
+    "DOCS/Pasted image 20230414230425.png"
+  ]
+}

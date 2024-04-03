@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "0506454a59ceb804",
+    "type": "split",
+    "children": [
+      {
+        "id": "2156d01e862f858e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "861de46a730977c4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad198669e3e5e575",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd5be9cbd7b50f56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75c4a39a292fb3aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91689fdec022f15a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Programming",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b85209fa700fafc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "852a3953e14c670d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "194103d9cac6635a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9711b22f3e84b474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba607a0650907135",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "36357a7c94213470",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7b9526cb408ca75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2102a804bacf4652",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40010bda46b727c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ce9f084f05055763",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31b8fa6791781ddc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "861de46a730977c4",
+  "lastOpenFiles": [
+    "DOCS/CMPG 211.md",
+    "Hyperbola.md",
+    "DOCS/Searching.md",
+    "DOCS/ArraySort.md",
+    "DOCS/Array.md",
+    "editor_translucency.css",
+    "DOCS/Abstract in Java.md",
+    "7.1 Introduction.md",
+    "DOCS/7.0 Sampling.md",
+    "DOCS/5.5 Complex Eigenvalues.md",
+    "DOCS/5.0 Eigenvalues and Eigenvectors.md",
+    "DOCS/MTHS 212.md",
+    "DOCS/STTN 215.md",
+    "DOCS/6.0 Distributions derived from the normal distribution.md",
+    "DOCS/Statistic Functions.md",
+    "DOCS/MTHS 211.md",
+    "DOCS/15.0 Multiple Integrals.md",
+    "DOCS/15.8 Triple Integrals in Spherical Coordinates.md",
+    "DOCS/15.9 Changes of Variables in Multiple Integrals.md",
+    "DOCS/15.4 Applications of Double Integrals.md",
+    "DOCS/15.6 Triple Integrals.md",
+    "DOCS/15.7 Triple Integrals in Cylindrical Coordinates.md",
+    "DOCS/Time Table.md",
+    "DOCS/Interfaces in Java.md",
+    "().md",
+    "DOCS/14.5 The Chain Rule.md",
+    "DOCS/14.0 Partial Derivatives.md",
+    "DOCS/Screenshot from 2023-05-12 01-46-01.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "DOCS/Pasted image 20230415013749.png",
+    "DOCS/Pasted image 20230414231658.png",
+    "DOCS/Pasted image 20230414231618.png",
+    "DOCS/Pasted image 20230414230433.png",
+    "DOCS/Pasted image 20230414230425.png"
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "0506454a59ceb804",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6b5333a2c734038",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b9147471fef53a0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a3bc97639b041c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCS/14.4 Tangent planes and linear approximations.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad198669e3e5e575",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd5be9cbd7b50f56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75c4a39a292fb3aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91689fdec022f15a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "538fe6bb9711e21f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "194103d9cac6635a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9711b22f3e84b474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7b9526cb408ca75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2102a804bacf4652",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba607a0650907135",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "45b2976be12611cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7b9147471fef53a0",
+  "lastOpenFiles": [
+    "DOCS/14.4 Tangent planes and linear approximations.md",
+    "DOCS/14.0 Partial Derivatives.md",
+    "DOCS/MTHS 211.md",
+    "DOCS/15.2 Double Integrals Over General Regions.md",
+    "Integrals.md",
+    "DOCS/MTHS 212.md",
+    "DOCS/14.1 Functions of Several Variables.md",
+    "DOCS/15.1 Double Integrals Over Rectangles.md",
+    "DOCS/15.0 Multiple Integrals.md",
+    "DOCS/12.5 Equations of Lines and Planes.md",
+    "Abstract in Java.md",
+    "DOCS/14.2 Limits and Continuity.md",
+    "DOCS/12.6  Cylinders and Quadratic Surfaces.md",
+    "Templates/meta module.md",
+    "Templates/lecture not template.md",
+    "Templates/daily note template.md",
+    "Templates/meta note.md",
+    "DOCS/12.0 Vectors and Space.md",
+    "DOCS/Pasted image 20230413170250.png",
+    "DOCS/Pasted image 20230413165714.png",
+    "Templates/2023-04-13.md",
+    "Untitled.canvas",
+    "Untitled 1.md",
+    "DOCS/14.6 Directional Derivatives and the Gradient Vector.md",
+    "Templates/test.md",
+    "DOCS/2.2 The Inverse of a Matrix.md",
+    "DOCS/Proofs.md",
+    "Templates",
+    "DOCS/1.0 Linear Equations in Linear Algebra.md",
+    "DOCS/2.0 Matrix Algebra.md",
+    "DOCS",
+    "Multiple Integrals.canvas"
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "0506454a59ceb804",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6b5266cdb3d5739",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da6f13de1711ee1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCS/MTHS 211.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad198669e3e5e575",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd5be9cbd7b50f56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75c4a39a292fb3aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91689fdec022f15a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "538fe6bb9711e21f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e42557cc1f8a397a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "194103d9cac6635a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9711b22f3e84b474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7b9526cb408ca75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DOCS/MTHS 211.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2102a804bacf4652",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DOCS/MTHS 211.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba607a0650907135",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "45b2976be12611cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DOCS/MTHS 211.md"
+              }
+            }
+          },
+          {
+            "id": "5194cd1395cc16c8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "31b8fa6791781ddc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "da6f13de1711ee1b",
+  "lastOpenFiles": [
+    "DOCS/15.0 Multiple Integrals.md",
+    "15.7 Triple Integrals in Cylindrical Coordinates.md",
+    "15.9 Changes of Variables in Multiple Integrals.md",
+    "15.8 Triple Integrals in Spherical Coordinates.md",
+    "15.6 Triple Integrals.md",
+    "15.4 Applications of Double Integrals.md",
+    "15.3 Double Integrals in Polar Coordinates.md",
+    "DOCS/15.2 Double Integrals Over General Regions.md",
+    "DOCS/15.1 Double Integrals Over Rectangles.md",
+    "DOCS/MTHS 211.md",
+    "DOCS/14.4 Tangent planes and linear approximations.md",
+    "DOCS/14.0 Partial Derivatives.md",
+    "DOCS/Taylor Theoems for Two Variables.md",
+    "DOCS/14.5 The Chain Rule.md",
+    "Untitled 1.md",
+    "6.0 Distributions derived from the normal distribution.md",
+    "DOCS/STTN 215.md",
+    "5.5 Complex Eigenvalues.md",
+    "5.0 Eigenvalues and Eigenvectors.md",
+    "5.2 The Characteristic Equation.md",
+    "5.1 Eigenvectors and Eigenvalues.md",
+    "().md",
+    "DOCS/MTHS 212.md",
+    "DOCS/Time Table.md",
+    "DOCS/Statistic Functions.md",
+    "6.2 chi squared distributions,t and F distributions.md",
+    "DOCS/Screenshot from 2023-05-12 01-46-01.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "DOCS/Pasted image 20230415013749.png",
+    "DOCS/Pasted image 20230414231658.png",
+    "DOCS/Pasted image 20230414231618.png",
+    "DOCS/Pasted image 20230414230433.png",
+    "DOCS/Pasted image 20230414230425.png"
+  ]
+}
