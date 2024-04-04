@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/DOCS/1.1 Introduction to AI.md",
+                "file": "Search Algorithms.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/DOCS/1.1 Introduction to AI.md",
+                "file": "Search Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/DOCS/1.1 Introduction to AI.md",
+                "file": "Search Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/DOCS/1.1 Introduction to AI.md"
+                "file": "Search Algorithms.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "b7b2ccb93d3ae058",
   "lastOpenFiles": [
-    "time.md",
+    "Search Algorithms.md~",
+    "Untitled.md",
+    "Search Algorithms.md",
     "Obsidian Vault/DOCS/1.1 Introduction to AI.md",
+    "time.md",
     "Obsidian Vault/DOCS/README.md",
     "1.1 Introduction to AI.md~",
     "Obsidian Vault/DOCS/CMPG 313.md",
@@ -173,9 +176,6 @@
     "Obsidian Vault/DOCS/1.8 Linear Transformations.md",
     "Obsidian Vault/DOCS/1.9 The Matrix of a Linear Transformation.md",
     "Obsidian Vault/DOCS/1.5 Solution Sets of Linear Systems.md",
-    "Obsidian Vault/DOCS/1.7 Linear Independence.md",
-    "Obsidian Vault/DOCS/03 Joint Distributions.md",
-    "Obsidian Vault/DOCS/3.3 Continuous Random Variables.md",
     "CMPG 313.md.partial",
     "Obsidian Vault/DOCS/03 Joint Distributions.md.partial",
     "Obsidian Vault/DOCS/Statistic Functions.md.partial",

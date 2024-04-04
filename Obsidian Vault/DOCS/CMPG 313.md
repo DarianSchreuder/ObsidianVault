@@ -4,7 +4,7 @@
 ### Sections:
 
 [[1.1 Introduction to AI]]
-
+[[Search Algorithms]]
 
 --- 
 2024-04-03
