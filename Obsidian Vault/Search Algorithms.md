@@ -1,8 +1,8 @@
 # Search Algorithms
 2024-04-04 | 15:21
-{Subject}:[[]]
-{Section}:[[]]
-{Tags}: #
+{Subject}:[[CMPG 313]]
+{Section}:[[CMPG 313]]
+{Tags}: #AI 
 {Related}:
 
 --- 
