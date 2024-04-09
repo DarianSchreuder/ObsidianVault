@@ -147,6 +147,150 @@ Entity relationship modeling and normalization
 - All objects (entities, attributes, relations, views, and so on) are defined in a data dictionary, which is used in tandem with the normalization process
 
 ---
---- 
+$$
+\begin{array}{|l|l|}
+\hline & \text { Table 9.3: Developing the Conceptual Model Using ER Diagrams } \\
+\hline \text { Step } & \text { Activity } \\
+\hline 1 & \text { Identify, analyze, and refine the business rules } \\
+\hline 2 & \text { Identify the main entities, using the results of Step } 1 \\
+\hline 3 & \text { Define the relationships among the entities, using the results of Steps } 1 \text { and } 2 \\
+\hline 4 & \text { Define the attributes, primary keys, and foreign keys for each of the entities } \\
+\hline 5 & \text { Normalize the entities (remember that entities are implemented as tables in an RDBMS) } \\
+\hline 6 & \text { Complete the initial ER diagram } \\
+\hline 7 & \text { Validate the ER model against the end users' information and processing requirements } \\
+\hline 8 & \text { Modify the ER model, using the results of Step } 7 \\
+\hline
+\end{array}
+$$
+---
+#### Data model verification
+- Verified against proposed system processes
+- Run through a series of tests
+
+Important concepts
+- **Module**: information system component that handles specific business function
+- **Cohesivity**: strength of the relationships among the module's entities
+- **Module** coupling: extent to which modules are independent to one another
+	-Low coupling decreases unnecessary intermodule dependencies
+
+---
+$$
+\begin{array}{|l|l|}
+\hline & \text { Table 9.5: The ER Model Verification Process } \\
+\hline \text { Step } & \text { Activity } \\
+\hline 1 & \text { Identify the ER model's central entity } \\
+\hline 2 & \text { Identify each module and its components } \\
+\hline 3 & \begin{array}{l}
+\text { Identify each module's transaction requirements: } \\
+\text { - Internal: updates/inserts/deletes/queries/reports } \\
+\text { - External: module interfaces }
+\end{array} \\
+\hline 4 & \text { Verify all processes against the module's processing and reporting requirements } \\
+\hline 5 & \text { Make all necessary changes suggested in Step 4 } \\
+\hline 6 & \text { Repeat Steps } 2-5 \text { for all modules } \\
+\hline
+\end{array}
+$$
+---
+#### Distributed database design
+- Portions of database may reside in different physical locations
+- **Database fragment**: subset of a database stored at a given location
+- Ensures database integrity, security, and performance
+---
+# Logical Design
+- Logical Design (goal): design an enterprise-wide database that is based on a specific data model but independent of physical-level details
+	- Requires that all objects in the conceptual model be mapped to the specific constructs used by the selected database model
+	
+- Validates logical model
+	- Using normalization
+	- Integrity constraints
+	- Against user requirements
+---
+$$
+\begin{array}{|l|l|}
+\hline & \text { Table 9.6: Logical Design Steps } \\
+\hline \text { Step } & \text { Activity } \\
+\hline 1 & \text { Map the conceptual model to logical model components } \\
+\hline 2 & \text { Validate the logical model using normalization } \\
+\hline 3 & \text { Validate the logical model integrity constraints } \\
+\hline 4 & \text { Validate the logical model against user requirements } \\
+\hline
+\end{array}
+$$
+$$
+\begin{array}{|l|l|}
+\hline & \text { Table 9.7: Mapping the Conceptual Model to the Relational Model } \\
+\hline \text { Step } & \text { Activity } \\
+\hline 1 & \text { Map strong entities } \\
+\hline 2 & \text { Map supertype/subtype relationships } \\
+\hline 3 & \text { Map weak entities } \\
+\hline 4 & \text { Map binary relationships } \\
+\hline 5 & \text { Map higher-degree relationships } \\
+\hline
+\end{array}
+$$
+
+---
+# Physical Design
+- Physical Design: Process of data storage organization and data access characteristics of the database; ensures integrity, security, and performance
+
+Physical Design Steps:
+- Define data storage organization
+- Define integrity and security measures
+- Determine performance measures
+---
+# Database Design Strategies
+- **Top-down** design starts by identifying the data sets and then defines the data elements for each of those sets
+	- Involves the identification of different entity types and the definition of each entity's attributes
+- **Bottom-up** design first identifies the data elements (items) and then groups them together in data sets
+	- First defines attributes, and then groups them to form entities
+---
+# Centralized versus Decentralized Design
+
+**Centralized design**: process by which all database design decisions are carried out centrally by a small group of people
+- Suitable in a top-down design approach when the problem domain is relatively small, as in a single unit or department in an organization
+
+**Decentralized design**: process in which conceptual design models subsets of an organization's database requirements, which are then aggregated into a complete design
+- Such modular designs are typical of complex systems with a relatively large number of objects and procedures
+
+#### Implementation and Loading
+
+Install the DBMS
+- Virtualization: Creates logical representations of computing resources independent of underlying physical computing resources
+
+Create the databases
+- Requires the creation of special storage-related constructs to house the end-user tables
+
+Load or convert the data
+- Requires aggregating (samevoeging en integrasie) data from multiple sources
+---
+##### Testing and Evaluation
+- Physical security
+- Password security
+- Access rights
+- Audit trails
+- Data encryption
+- Diskless workstations
+- Optimization (Fine-tuning)
+
+##### Levels of Database Backups
+- **Full backup**/dump: All database objects are backed up in their entirety
+- **Differential backup**: Only modified/updated objects since last full backup are backed up
+- **Transaction log backup**: Only the transaction log operations that are not reflected in a previous backup are backed up
+- Backups are provided with high security
+
+##### Maintenance and Evolution
+- Preventive maintenance (backup)
+- Corrective maintenance (recovery)
+- Adaptive maintenance (improving performance, adding entities and attributes)
+- Assignment of access permissions and their maintenance for new and old users
+- Generation of database access statistics (e.g. to monitor and improve system performance)
+- Periodic security audits based on statistics
+- Periodic system-usage summaries for billing and budgeting purposes
+---
+
 {Efundi Lecture Notes}: [SU2-CH9](https://1drv.ms/b/s!AlwTrhPAanGFhPg6Ysydlu042kCa1g?e=RVKooG)
+
+---
 <iframe src="https://onedrive.live.com/embed?resid=85716AC013AE135C%2180954&authkey=!AFFfm7Aa_pgvSwI&em=2" width="800" height="600" frameborder="2" scrolling="yes"></iframe>
+---

@@ -3,8 +3,11 @@
 
 --- 
 ### Sections:
-[[Chapter 1 - Database Systems]]
 
+[[1.1 Why Databases]]
+[[SU1-CH2]]
+[[SU2-CH9]]
+[[SU3-CH3]]
 
 --- 
 2024-02-14
