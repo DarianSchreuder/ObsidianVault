@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Operating Systems SU1.md",
+=======
+                "file": "Obsidian Vault/DOCS/CMPG 311.md",
+>>>>>>> Stashed changes
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +90,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Operating Systems SU1.md",
+=======
+                "file": "Obsidian Vault/DOCS/CMPG 311.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Operating Systems SU1.md",
+=======
+                "file": "Obsidian Vault/DOCS/CMPG 311.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Operating Systems SU1.md"
+=======
+                "file": "Obsidian Vault/DOCS/CMPG 311.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -161,8 +177,13 @@
     "Obsidian Vault/DOCS/1.1 Introduction to AI.md",
     "Obsidian Vault/DOCS/CMPG 313.md",
     "Obsidian Vault/DOCS/Chapter 1 - Database Systems.md",
+    "Obsidian Vault/DOCS/CMPG 311.md",
     "SU2-CH9.md",
     "SU1-CH2.md",
+<<<<<<< Updated upstream
+=======
+    "Obsidian Vault/DOCS/CMPG 313.md",
+>>>>>>> Stashed changes
     "Obsidian Vault/Search Algorithms.md",
     "Search Algorithms.md~",
     "time.md",
