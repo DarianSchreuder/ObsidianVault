@@ -1,5 +1,5 @@
 # CMPG 211
-{tags}: #Programming #Java 
+{tags}: #Programming #Java #ComputerScience 
 --- 
 ### Sections:
 

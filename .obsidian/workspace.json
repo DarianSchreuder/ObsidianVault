@@ -1,26 +1,18 @@
 {
   "main": {
-    "id": "7bc114a05fb574f7",
+    "id": "cca53b426e17eb67",
     "type": "split",
     "children": [
       {
-        "id": "1b2cbcb4eef7d48f",
+        "id": "97046ce0bcc7348a",
         "type": "tabs",
         "children": [
           {
-            "id": "3e2237efd5cf67a9",
+            "id": "fe03c06ba5d114e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "Operating Systems SU1.md",
-=======
-                "file": "Obsidian Vault/DOCS/CMPG 311.md",
->>>>>>> Stashed changes
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -29,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "084ee51e710a13a0",
+    "id": "1e0b9598d1bd328e",
     "type": "split",
     "children": [
       {
-        "id": "19111f835c250399",
+        "id": "38b503a719fa1e68",
         "type": "tabs",
         "children": [
           {
-            "id": "756383a227a70353",
+            "id": "5222d19f6d37050e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,12 +39,12 @@
             }
           },
           {
-            "id": "2f4a6c37b4a0b960",
+            "id": "4792ab923429144e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#LinearAlgebra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,39 +54,35 @@
             }
           },
           {
-            "id": "710f62c1ac280333",
+            "id": "9ad7c2c5e6047fdd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "d7f78bfb91b820cc",
+    "id": "5037d82ed3dda066",
     "type": "split",
     "children": [
       {
-        "id": "b35f02693164e334",
+        "id": "5e1cf0ba071232b3",
         "type": "tabs",
         "children": [
           {
-            "id": "c6b2243f1fb6c403",
+            "id": "15865afbe118999d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Operating Systems SU1.md",
-=======
-                "file": "Obsidian Vault/DOCS/CMPG 311.md",
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,23 +94,18 @@
             }
           },
           {
-            "id": "c8b3cbac03272746",
+            "id": "938f5d834d7cd3d4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Operating Systems SU1.md",
-=======
-                "file": "Obsidian Vault/DOCS/CMPG 311.md",
->>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "260f4cf4835cc3c8",
+            "id": "30e911dbc42e3ec1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,17 +116,11 @@
             }
           },
           {
-            "id": "68aabec59d03ccc0",
+            "id": "cdb5c7f413f4478f",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "Operating Systems SU1.md"
-=======
-                "file": "Obsidian Vault/DOCS/CMPG 311.md"
->>>>>>> Stashed changes
-              }
+              "state": {}
             }
           }
         ]
@@ -163,46 +140,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e2237efd5cf67a9",
+  "active": "fe03c06ba5d114e9",
   "lastOpenFiles": [
-    "CMPG 324.md",
-    "SU1.md",
-    "Obsidian Vault/DOCS/15.0 Multiple Integrals.md",
-    "Obsidian Vault/DOCS/15.8 Triple Integrals in Spherical Coordinates.md",
-    "Obsidian Vault/DOCS/MTHS 211.md",
-    "Operating Systems SU1.md",
-    "Obsidian Vault/DOCS/15.9 Changes of Variables in Multiple Integrals.md",
-    "SU3-CH3.md",
-    "Obsidian Vault/DOCS/CMPG 311.md",
-    "Obsidian Vault/DOCS/1.1 Introduction to AI.md",
-    "Obsidian Vault/DOCS/CMPG 313.md",
-    "Obsidian Vault/DOCS/Chapter 1 - Database Systems.md",
-    "Obsidian Vault/DOCS/CMPG 311.md",
-    "SU2-CH9.md",
-    "SU1-CH2.md",
-<<<<<<< Updated upstream
-=======
-    "Obsidian Vault/DOCS/CMPG 313.md",
->>>>>>> Stashed changes
-    "Obsidian Vault/Search Algorithms.md",
-    "Search Algorithms.md~",
-    "time.md",
-    "Obsidian Vault/DOCS/README.md",
-    "1.1 Introduction to AI.md~",
-    "Obsidian Vault/DOCS/4.5 Moment Generating Function.md",
-    "Obsidian Vault/DOCS/04 Expected Values.md",
-    "Obsidian Vault/DOCS/STTN 215.md",
-    "Obsidian Vault/DOCS/Summary of Functions.md",
-    "Obsidian Vault/DOCS/4.4 Conditional Expected Values.md",
-    "Obsidian Vault/DOCS/4.2 Variance and Standard Deviation.md",
-    "Obsidian Vault/DOCS/4.1 Expected Values.md",
-    "Obsidian Vault/DOCS/MTHS 212.md",
+    "The CPU.md",
+    "Obsidian Vault/DOCS/Operating Systems SU1.md",
+    "Obsidian Vault/DOCS/CMPG 324.md",
     "Obsidian Vault/DOCS/MTHS 222.md",
-    "Obsidian Vault/DOCS/4.1 Expected Values.md.partial",
-    "CMPG 313.md.partial",
-    "Obsidian Vault/DOCS/03 Joint Distributions.md.partial",
-    "Obsidian Vault/DOCS/Statistic Functions.md.partial",
-    "Obsidian Vault/DOCS/3.1 Determinants.md.partial",
-    "Obsidian Vault/DOCS/3.3 Cramer's Rule, Volume and Linear Transformations.md.partial"
+    "Obsidian Vault/DOCS/MTHS 212.md",
+    "Obsidian Vault/DOCS/Java`s Excepion Hierarchy.md",
+    "Obsidian Vault/DOCS/Exceptions.md",
+    "Obsidian Vault/DOCS/CMPG 211.md",
+    "Obsidian Vault/DOCS/ArraySort.md",
+    "Obsidian Vault/DOCS/Array.md",
+    "Obsidian Vault/DOCS/ArrayList.md",
+    "Obsidian Vault/DOCS/Interfaces in Java.md",
+    "Obsidian Vault/DOCS/Abstract in Java.md",
+    "Obsidian Vault/DOCS/CMPG 221.md",
+    "Obsidian Vault/DOCS/CMPG 222.md"
   ]
 }

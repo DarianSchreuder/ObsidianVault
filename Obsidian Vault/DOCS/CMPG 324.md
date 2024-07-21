@@ -1,5 +1,5 @@
 # CMPG 324
-{tags}: #OperatingSystems 
+{tags}: #OperatingSystems #Programming #ComputerScience 
 --- 
 ### Sections:
 [[Operating Systems SU1]]
@@ -10,3 +10,6 @@
 {Textbook}:
 {Module Information}:
 {Week Schedule}: [[Time Table]]
+
+Related
+[[CMPG 311]]

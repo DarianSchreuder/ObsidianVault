@@ -1,5 +1,7 @@
 # MTHS 222
 {tags}: #Mathematics #LinearAlgebra 
+[[MTHS 222]] [[MTHS 212]]
+
 --- 
 ### Sections:
 

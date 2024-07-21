@@ -1,7 +1,7 @@
 # Abstract in Java
 2023-04-13 | 20:18
 {Subject}:[[CMPG 211]]
-{Tags}: #Programming #Java
+{Tags}: #Programming #Java #ComputerScience 
 {Related}:[[Interfaces in Java]]
 
 --- 

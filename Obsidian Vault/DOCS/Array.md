@@ -1,5 +1,5 @@
 # Array
-{tags}: #Programming #Java 
+{tags}: #Programming #Java #ComputerScience 
 {module}: [[CMPG 211]]
 
 --- 

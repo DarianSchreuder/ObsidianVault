@@ -2,7 +2,7 @@
 2023-05-16 | 19:07
 {Subject}:[[CMPG 211]]
 {Section}:[[Array]]
-{Tags}: #Programming 
+{Tags}: #Programming #ComputerScience 
 {Related}:
 
 --- 

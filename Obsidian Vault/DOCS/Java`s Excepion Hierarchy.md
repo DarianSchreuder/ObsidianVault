@@ -1,8 +1,8 @@
-# Java\`s Excepion Hierarchy
+# Java\`s Exception Hierarchy
 2023-05-16 | 19:24
 {Subject}:[[CMPG 211]]
 {Section}:[[Exceptions]]
-{Tags}: #Programming #Java 
+{Tags}: #Programming #Java #ComputerScience 
 {Related}:
 
 --- 
