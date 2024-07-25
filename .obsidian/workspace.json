@@ -11,8 +11,12 @@
             "id": "fe03c06ba5d114e9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/DOCS/SU2 Processes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian Vault/DOCS/SU2 Processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian Vault/DOCS/SU2 Processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Obsidian Vault/DOCS/SU2 Processes.md"
+              }
             }
           }
         ]
@@ -140,11 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe03c06ba5d114e9",
+  "active": "5222d19f6d37050e",
   "lastOpenFiles": [
-    "The CPU.md",
-    "Obsidian Vault/DOCS/Operating Systems SU1.md",
     "Obsidian Vault/DOCS/CMPG 324.md",
+    "Obsidian Vault/DOCS/SU2 Processes.md",
+    "Obsidian Vault/DOCS/Operating Systems SU1.md",
+    "Obsidian Vault/DOCS/The CPU.md",
     "Obsidian Vault/DOCS/MTHS 222.md",
     "Obsidian Vault/DOCS/MTHS 212.md",
     "Obsidian Vault/DOCS/Java`s Excepion Hierarchy.md",

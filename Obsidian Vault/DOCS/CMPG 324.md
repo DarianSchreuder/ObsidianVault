@@ -3,6 +3,7 @@
 --- 
 ### Sections:
 [[Operating Systems SU1]]
+[[SU2 Processes]]
 
 --- 
 2024-07-20
