@@ -45,6 +45,16 @@ Naturally, all processes have an end, which requires their **termination**. A p
 - **Fatal exit** is an involuntary termination that occurs when a process encounters an unresolvable error caused by it's own code (think unhandled exceptions - these would cause fatal exits); and
 - A process can also be involuntarily **killed by another process**.
 
+---
+### Process States
+All processes have a specific **state** that describes their current situation. There are 3 states that a process can have, specifically:
 
+- **Running**, which means that process is actually using the CPU at that very moment;
+- **Ready**, which means that the process is ready to use the CPU, but has been stopped for some reason (such as to give another process a go); and
+- **Blocked**, in which case the process will be prohibited from using the CPU until some external event happens (external meaning outside the blocked process).
+
+There is a limit to how these processes can change between states
+
+![[yUT_Oz8x7brgvr3Qxi1k2qvHk_rgRTkHePgbgiSVea4.original.fullsize.png]]
 --- 
 {Efundi Lecture Notes}: [SU2 Processes]()
