@@ -8,9 +8,9 @@
 --- 
 Know the different modes that programs have.
 - User mode - Programs in this mode cannot access unauthorized data and hardware, they can only present requests to the kernel and the kernel will allocate the required resources. 
-- Kernel mode - Kernel mode has full access to systems hardware and programs. Full control and management of file systems data and components.
+- Kernel mode - Kernel mode has full access to systems hardware and programs. Full control and management of file systems data and components as well as memory management.
 
-For a user program to gain access to resources the program must create a system request that the kernel will evaluate and provide the needed resources if it is available.
+For a user program to gain access to resources the program must create a system request (**System Call**) that the kernel will evaluate and provide the needed resources if it is available.
 
 ### Primary Functions of an Operating System
 - Provide a clean abstraction of System Resources to system users.
@@ -30,6 +30,7 @@ The management of resources are separated into three primary levels:
 - Input and Output Control: which comes into play whenever data is transferred between devices;
 - Memory Management and the File System, Deals with both primary memory and secondary memory.
 
+![[KBpm7EzHod6Pk2mmkPSTSz1Y1EShzFqwpNehpDwUUuI.original.fullsize.png]]
 ### Types of Operating Systems
 - Mainframe operating systems
 - Server operating systems
@@ -65,10 +66,54 @@ The primary distinction between the fourth and fifth generation is the involveme
 --- 
 ## The CPU
 [[The CPU]]
+### RAM
+Then we have the RAM this is where data is stored before being taken into the cache (L1 cache) its like having ammunition clips ready for after the one in the gun is processed and is slower process to move the clip into the gun. Plainly the ram is slower than the cache.
 
+### Secondary Memory
+Then comes "secondary memory", such as disks. Stores data even if the computer looses power. Long term memory.
+### I/O Devices
+I/O devices, simply stated, are responsible for handling the flow if information between devices such as hard drives and memory
+### Buses
+**Buses** are "microsystems" that manage the transfer of data between the various components of a computer.
+- The memory bus is responsible for transferring data between the CPU, memory and peripherals.
+---
+The **chipset**, which is usually a part of the motherboard, is a set of components that manage the flow of information between the CPU, memory, and peripherals.
+### Direct Media Interface (DMI)
+**Direct Media Interface (DMI)** bus deserves mention. The DMI is used to allow for a system to separate the slower devices, such as device controllers, from the faster devices, such as the CPU and memory.
 
+ The **northbridge** chip is used to connect the CPU, memory, and **Peripheral Component Interconnect Express (PCIe)** bus with one another, and is therefore also called the **memory controller hub**.
 
+The northbridge is connected directly to the CPU by means of the **Front-Side Bus (FSB)**.
 
+The slower devices, such as the device controllers, are connected to the **southbridge**. Because the southbridge is mainly connected to I/O devices, it is called the **I/O Controller Hub (ICH)** in Intel systems (AMD calls their southbridge the **Fusion Controller Hub (FCH)**).
+
+### Interupts
+An interrupt, simply put, is a message from a device or a controller that lets a higher device know that it is done with the work that was assigned to it.
+
+If a program wants to read a small file, for example, the CPU will send a command to the relevant device controller, which will in turn tell the drive to start reading data. Once the drive has finished reading the requested data, it lets the controller know by sending an interrupt. Once the controller is in a position to handle the interrupt, it in turn sends an interrupt to the CPU to let it know that the job is done. The CPU can then accept the data as soon as it is ready to do so.
+
+---
+**Processes**: A process is, quite simply, a program or piece of code that is being executed. Each process has its own **address space**, which is the section of memory that has been allocated to and reserved for that process.
+
+**Files:** Files are specific abstractions of binary data stored on secondary memory devices
+
+**Protection/security**: In addition to operating protections, such as those that prevent processes from accessing other processes' address space, an OS also has to protect the data and resources of the user
+
+**Systems calls**: a system call, simply stated, is a request by a process for the OS to execute some code that may require kernel access.
+
+**Microprogramming**: microprogramming allows for a CPU to have an instruction set, rather than a set number of hardwired functions.
+
+### System Calls
+An example of the read system call is shown in the figure below, which also illustrates how much the operating systems does to simply common tasks:
+
+![[Z4tOKAXP4_vZXo_-6Cv3ubo1Wa_ACxdkrSrAX1FMh4g.original.fullsize.png]]
+### Different OS Structure Configurations
+- **Monolithic**: the entire OS runs as a single program in kernel mode
+- **Layered**: the OS is divided into multiple layers, with each layer being responsible for a specific kind of task. The higher layers then build on the functions provided by the lower layers.
+- **Microkernels**: the OS is split into two main parts: that which does not require kernel access, and as small a part as possible that does. Only a small part of the OS therefore runs in kernel mode.
+- **Client-server**: all OS processes are split into two groups, namely the servers that provide services, and the clients that use those services. This allows for an OS to potentially be split amongst machines of varying capability, but this is not a requirement.
+- **Virtual machines**: the virtual machine OS structure allows for multiple operating systems to run on the same hardware.
+- **Exokernels**: with an exokernel structure, the hardware is partitioned amongst the users. If it were to be compared to the virtual machine structure, then all of the virtual machines have access to all of the hardware, whereas exokernel systems would only have access to a part of the system.
 
 
 --- 

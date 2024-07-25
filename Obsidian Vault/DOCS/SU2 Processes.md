@@ -56,5 +56,16 @@ All processes have a specific **state** that describes their current situation
 There is a limit to how these processes can change between states
 
 ![[yUT_Oz8x7brgvr3Qxi1k2qvHk_rgRTkHePgbgiSVea4.original.fullsize.png]]
+ the transitions for a process that requires input of some kind is shown. This may be input from a user, or a different process.
+ As the process is waiting for an input to continue it evokes a blocked state.
+  What this also means, is that transitions 1 and 4 are caused by either processes or events: 1 by the process that requires input, and 4 by the process (or event) that lets the process know that the input is available.
+ 
+ Operations 2 and 3 are controlled by the **Scheduler**. This means these transitions are predetermined by rules and algorithms. Thus processes do not typically get to choose when they are transitioned from ready to running and back again.
+
+---
+### Implementation of the Process Model
+In order to implement this model, the OS has to maintain a **process table** which contains the details of all the active processes. 
+The **process table** is used to store any and all information that is required to continue the operation of a process.
+
 --- 
 {Efundi Lecture Notes}: [SU2 Processes]()
