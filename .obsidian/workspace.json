@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/DOCS/Operating Systems SU1.md",
+                "file": "Chapter 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#LinearAlgebra",
+                "query": "tag:#Statistics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/DOCS/Operating Systems SU1.md",
+                "file": "Chapter 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/DOCS/Operating Systems SU1.md",
+                "file": "Chapter 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/DOCS/Operating Systems SU1.md"
+                "file": "Chapter 10.md"
               }
             }
           }
@@ -149,16 +149,18 @@
   },
   "active": "145436e3c2a94518",
   "lastOpenFiles": [
-    "Obsidian Vault/DOCS/CMPG 324.md",
+    "STTN 225.md",
+    "Chapter 10.md",
+    "Obsidian Vault/DOCS/STTN 215.md",
     "Obsidian Vault/DOCS/Operating Systems SU1.md",
-    "Z4tOKAXP4_vZXo_-6Cv3ubo1Wa_ACxdkrSrAX1FMh4g.original.fullsize.png",
+    "Obsidian Vault/DOCS/CMPG 324.md",
+    "Obsidian Vault/Images/Z4tOKAXP4_vZXo_-6Cv3ubo1Wa_ACxdkrSrAX1FMh4g.original.fullsize.png",
     "Obsidian Vault/DOCS/The CPU.md",
-    "KBpm7EzHod6Pk2mmkPSTSz1Y1EShzFqwpNehpDwUUuI.original.fullsize.png",
+    "Obsidian Vault/Images/KBpm7EzHod6Pk2mmkPSTSz1Y1EShzFqwpNehpDwUUuI.original.fullsize.png",
     "Obsidian Vault/DOCS/SU2 Processes.md",
     "Obsidian Vault/Images",
     "Process_Transition_Model.md",
     "Obsidian Vault/Images/yUT_Oz8x7brgvr3Qxi1k2qvHk_rgRTkHePgbgiSVea4.original.fullsize.png",
-    "Obsidian Vault/DOCS/STTN 215.md",
     "Obsidian Vault/DOCS/3.3 Continuous Random Variables.md",
     "Obsidian Vault/DOCS/MTHS 222.md",
     "Obsidian Vault/DOCS/MTHS 212.md",

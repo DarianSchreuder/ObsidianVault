@@ -1,5 +1,6 @@
 # STTN 215
 {tags}: #Mathematics #Statistics #Probability
+Related: [[STTN 225]]
 
 --- 
 ### Sections:
