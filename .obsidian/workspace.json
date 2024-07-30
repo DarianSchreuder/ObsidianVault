@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "31ed9af4fb423604",
+        "id": "963fee9eebf79866",
         "type": "tabs",
         "children": [
           {
-            "id": "145436e3c2a94518",
+            "id": "65a36b89902bab02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Vault/DOCS/Operating Systems SU1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/DOCS/Operating Systems SU1.md",
+                "file": "Obsidian Vault/Templates/meta module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/DOCS/Operating Systems SU1.md",
+                "file": "Obsidian Vault/Templates/meta module.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/DOCS/Operating Systems SU1.md"
+                "file": "Obsidian Vault/Templates/meta module.md"
               }
             }
           }
@@ -147,13 +143,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "145436e3c2a94518",
+  "active": "5222d19f6d37050e",
   "lastOpenFiles": [
-    "Obsidian Vault/DOCS/CMPG 324.md",
+    "Obsidian Vault/Templates/meta note.md",
+    "Obsidian Vault/Templates/meta section.md",
+    "Obsidian Vault/DOCS/16.7 Surface Integrals.md",
+    "Obsidian Vault/DOCS/MTHS 221.md",
+    "Obsidian Vault/DOCS/MTHS 211.md",
     "Obsidian Vault/DOCS/Operating Systems SU1.md",
-    "Z4tOKAXP4_vZXo_-6Cv3ubo1Wa_ACxdkrSrAX1FMh4g.original.fullsize.png",
+    "Obsidian Vault/DOCS/CMPG 324.md",
+    "Obsidian Vault/Images/Z4tOKAXP4_vZXo_-6Cv3ubo1Wa_ACxdkrSrAX1FMh4g.original.fullsize.png",
     "Obsidian Vault/DOCS/The CPU.md",
-    "KBpm7EzHod6Pk2mmkPSTSz1Y1EShzFqwpNehpDwUUuI.original.fullsize.png",
+    "Obsidian Vault/Images/KBpm7EzHod6Pk2mmkPSTSz1Y1EShzFqwpNehpDwUUuI.original.fullsize.png",
     "Obsidian Vault/DOCS/SU2 Processes.md",
     "Obsidian Vault/Images",
     "Process_Transition_Model.md",

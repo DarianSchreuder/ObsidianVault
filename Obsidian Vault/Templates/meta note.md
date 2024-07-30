@@ -8,4 +8,4 @@
 --- 
 
 --- 
-{Efundi Lecture Notes}: [{{Title}}]()
+{Lecture Notes}: [{{Title}}]()
